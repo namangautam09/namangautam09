@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Gautam</h1>
 <h3 align="center">A passionate AI & ML Engineer from India</h3>
 
-<img align="right" alt="coding" width="200" src=![image](https://github.com/namangautam09/namangautam09/assets/171001378/2bb0d435-42a6-4c9e-92d2-87b2c3383fc2)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangautam09&label=Profile%20views&color=0e75b6&style=flat" alt="namangautam09" /> </p>
 
