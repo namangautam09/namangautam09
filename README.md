@@ -1,3 +1,4 @@
+![logo](https://github.com/namangautam09/namangautam09/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Naman Gautam</h1>
 <h3 align="center">A passionate AI & ML Engineer from India</h3>
 
